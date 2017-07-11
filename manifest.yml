@@ -3,7 +3,7 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: tanaka_kenichi2
-  host: comture
+  name: HosyuUnyou
+  host: HosyuUnyou
   disk_quota: 1024M
   services:
