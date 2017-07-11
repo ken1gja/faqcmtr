@@ -3,8 +3,7 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: faqcmtr
-  host: faqcmtr
+  name: tanaka_kenichi2
+  host: comture
   disk_quota: 1024M
   services:
-  - faqcmtr-cloudantNoSQLDB
