@@ -3,8 +3,8 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: faqcmtr
-  host: faqcmtr
+  name: HosyuUnyou
+  host: HosyuUnyou
   disk_quota: 1024M
   services:
   - Cloudant_NoSQL_DB-faq
